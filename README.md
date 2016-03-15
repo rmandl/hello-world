@@ -1,2 +1,3 @@
 # hello-world
-guided
+Richard Mandl learns how to use git
+
